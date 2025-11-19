@@ -3,63 +3,67 @@ It includes complete SQL scripts for creating tables, inserting sample data, and
 
 🔹 Features
 
-Structured database design (Customer, Account, TransactionLog)
+- Structured database design (Customer, Account, TransactionLog)
 
-6 dummy customer entries with realistic account data
+- 6 dummy customer entries with realistic account data
 
-Safe money transfer operation using SQL transactions
+- Safe money transfer operation using SQL transactions
 
-Full demonstration of ACID properties:
+- Full demonstration of ACID properties:
 
-Atomicity: All-or-nothing updates
+- Atomicity: All-or-nothing updates
 
-Consistency: Valid state enforced
+- Consistency: Valid state enforced
 
-Isolation: Concurrent transaction safety
+- Isolation: Concurrent transaction safety
 
-Durability: Changes persist after commit
+- Durability: Changes persist after commit
 
-Clear and documented SQL code for learning & reference
+- Clear and documented SQL code for learning & reference
 
 🔹 What’s Included
 
-CREATE statements for all required tables
+- CREATE statements for all required tables
 
-INSERT statements with 6 customer records
+- INSERT statements with 6 customer records
 
-Transaction scripts using:
+- Transaction scripts using:
 
-START TRANSACTION
+- START TRANSACTION
 
-COMMIT
+- COMMIT
 
-ROLLBACK
+- ROLLBACK
 
-A complete example of a real money transfer with transaction logging
+- A complete example of a real money transfer with transaction logging
 
-Comments explaining each section
+-Comments explaining each section
 
 🔹 Use Cases
 
-Database coursework / assignments
+- Database coursework / assignments
 
-Understanding ACID properties
+- Understanding ACID properties
 
-Learning transactional SQL
+- Learning transactional SQL
 
-Mini-projects related to Banking Systems
+- Mini-projects related to Banking Systems
 
 🔹 Tech Used
 
-MySQL
+- MySQL
 
-SQL (DDL + DML + Transaction Control Commands)
+- SQL (DDL + DML + Transaction Control Commands)
 
 
 🔹 Contributions
 
-Akshit Aggrawal
-Anish Kumar
-Aditi Priya
-Aditya Pandey
-Abhishek Singh
+-Akshit Aggrawal
+
+-Anish Kumar
+
+-Aditi Priya
+
+-Aditya Pandey
+
+-Abhishek Singh
