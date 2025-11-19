@@ -54,3 +54,12 @@ Mini-projects related to Banking Systems
 MySQL
 
 SQL (DDL + DML + Transaction Control Commands)
+
+
+🔹 Contributions
+
+Akshit Aggrawal
+Anish Kumar
+Aditi Priya
+Aditya Pandey
+Abhishek Singh
