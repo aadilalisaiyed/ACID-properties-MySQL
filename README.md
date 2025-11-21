@@ -37,7 +37,7 @@ It includes complete SQL scripts for creating tables, inserting sample data, and
 
 - A complete example of a real money transfer with transaction logging
 
--Comments explaining each section
+- Comments explaining each section
 
 🔹 Use Cases
 
