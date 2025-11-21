@@ -58,12 +58,14 @@ It includes complete SQL scripts for creating tables, inserting sample data, and
 
 🔹 Contributions
 
--Akshit Aggrawal
+- Aadilali Saiyed
 
--Anish Kumar
+- Akshit Aggrawal
 
--Aditi Priya
+- Anish Kumar
 
--Aditya Pandey
+- Aditi Priya
 
--Abhishek Singh
+- Aditya Pandey
+
+- Abhishek Singh
